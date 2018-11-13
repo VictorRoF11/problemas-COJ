@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int n,count=0;
+	int n,count;
 	scanf("%d",&n);
 	
 	count=n-n/3;
